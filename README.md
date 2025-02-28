@@ -1,8 +1,6 @@
-# README
-
-## SQL vs NoSQL Comparison
+## 1. SQL vs NoSQL Comparison
 <details>
-  <summary>Click to expand </summary>
+  <summary>Read more </summary>
 
 ### Description
 This repository contains a comparative study of SQL and NoSQL databases, highlighting key differences, use cases, performance factors, and data modeling strategies. The objective is to provide insights that can guide developers and organizations in choosing the appropriate database technology for their specific needs.
@@ -37,9 +35,6 @@ This paper concludes with the future scope of databases based on project require
  
 </details>
 
-## Bias Variance TradeOff
-<details>
-  <summary>Read essay</summary>
+## 2. Bias Variance TradeOff
 
-</details>
 
